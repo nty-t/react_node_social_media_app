@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ./client/node_modules
+=======
+client/node_modules/
+>>>>>>> b9e502e (project initiation and created login page with sass css as well as added .gitignore)
